@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.df77c256.css",
+    "main.js": "./static/js/main.99d5b009.js",
+    "static/media/DottedSongtiDiamondRegular.otf": "./static/media/DottedSongtiDiamondRegular.69f48ebd60a18ec3348b.otf",
+    "index.html": "./index.html",
+    "main.df77c256.css.map": "./static/css/main.df77c256.css.map",
+    "main.99d5b009.js.map": "./static/js/main.99d5b009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df77c256.css",
+    "static/js/main.99d5b009.js"
+  ]
+}
